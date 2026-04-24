@@ -1,6 +1,6 @@
 # SOCFortress CoPilot — Unauthenticated SSRF in Sigma Download Endpoint
 
-> **Severity:** High (CVSS 3.1: 8.2) &nbsp;|&nbsp; **Status:** Responsibly Disclosed &nbsp;|&nbsp; **Verified:** 2026-04-21
+> **Severity:** High (CVSS 3.1: 8.2) &nbsp;|&nbsp; **Verified:** 2026-04-21
 
 ## Overview
 
